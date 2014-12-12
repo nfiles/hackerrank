@@ -36,6 +36,3 @@ build/
 # emacs temp files
 *~
 #*#
-
-# input files used for testing
-input
